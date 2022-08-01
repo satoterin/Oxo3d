@@ -2,8 +2,6 @@
 
 This is a suite of Go programs for playing and testing 3D noughts and crosses / tic tac toe.
 
-Try [Oxo3d online](https://www.craig-wood.com/nick/oxo3d/).
-
 Or try it in your terminal in old school ASCII:
 
     go get -u github.com/ncw/oxo3d
@@ -32,10 +30,6 @@ Or try it in your terminal in old school ASCII:
 | .  .  .  .  | 60 61 62 63 |
 Go (0..63) 
 ```
-
-Or try [Oxo3d on your Android
-device](https://play.google.com/store/apps/details?id=com.craig_wood.Oxo3d).
-The Go code here is a port of the Java code used in this game.
 
 ## Playing the game
 
@@ -164,11 +158,3 @@ Heuristic1 player.  However computing has moved on, and the current
 version plays at a much higher strength almost instantly.  The author
 has improved too!
     
-## Contacting the Author
-
-If you have a problem with *Oxo 3D*, it goes wrong in some fashion
-then file an issue.  If you just want to say hello then you'll find my
-email address below!
-
-Nick Craig-Wood
-nick@craig-wood.com
